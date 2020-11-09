@@ -12,7 +12,7 @@ I was tasked with creating a functional responsive portfolio using Bootstrap CSS
 
 ## Deployed Website
 
-https://kelseyeckelberry.github.io/02_responsive_portfolio/
+https://kelseyeckelberry.github.io/Updated_Portfolio/
 
 ## Screenshots
 
