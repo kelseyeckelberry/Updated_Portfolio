@@ -1,0 +1,70 @@
+.body {
+    background-image: url(https://www.antarestech.com/wp-content/uploads/2019/02/repeat-white-background-waves.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.card-title {
+    font-size: xx-large;
+    font-weight: 700;
+    color: coral;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.fa-github {
+    color: gray;
+    position: relative;
+    left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.fa-linkedin {
+    color: gray;
+    position: relative;
+    left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px; 
+}
+
+.navbar {
+    font-size: x-large;
+    font-weight: 700;
+    color: coral;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.nav-link {
+    font-size: large;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 300;
+    margin-left: 20px;
+}
+
+.footer {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 300;
+    color: rgba(211, 211, 211, 0.445);
+    background-color: gray;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+ .kelsey-headshot {
+    float: left; 
+    padding-right: 20px; 
+    width: 200px
+}
+
+.btn {
+    background: coral; 
+    color: ghostwhite
+}
+
+.card {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
